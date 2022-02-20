@@ -1,6 +1,6 @@
 <img align="center" src="https://raw.githubusercontent.com/Khushal-ag/Khushal-ag/main/[khsl_agwl] LinkedIn Banner.png"/>
 
-<h1 align="center">Hi 👋, I'm Khushal Agarwal</h1>
+<h1 align="center">Hi 👋, I' Khushal Agarwal</h1>
 <h3 align="center">A passionate programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushal-ag&label=Profile%20views&color=0e75b6&style=flat" alt="khushal-ag" /> </p>
