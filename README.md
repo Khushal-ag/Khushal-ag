@@ -3,7 +3,7 @@
 <h1 align="center">Hi <span><img width="28px" src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif"></span>, I'm Khushal Agarwal</h1>
 <h3 align="center">A passionate programmer.</h3>
 
-<img align="right" src="https://enqumpt6r0an0p5.m.pipedream.net"/>
+![](https://hit.yhype.me/github/profile?user_id=70565605)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
