@@ -1,13 +1,23 @@
 <img align="center" src="https://raw.githubusercontent.com/Khushal-ag/Khushal-ag/main/[khsl_agwl] LinkedIn Banner.png"/>
 
-<h1 align="center">Hi 👋, I'm Khushal Agarwal</h1>
+<h1 align="center">Hi <span><img width="28px" src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif"></span>, I'm Khushal Agarwal</h1>
 <h3 align="center">A passionate programmer.</h3>
 
-![](https://komarev.com/ghpvc/?username=Khushal-ag&label=PROFILE+VIEWS&style=flat)
+<img align="right" src="https://enqumpt6r0an0p5.m.pipedream.net"/>
 
-- 📫 How to reach me **starkhush5@gmail.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/khushal-agarwal-559878144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushal agarwal" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/khushal_ag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khushal_ag" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/khushal_agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khushal_agarwal" height="30" width="40" /></a>
+</p>
 
-- ⚡ Fun fact **I think I m funny XD.**
+```markdown
+- 📫 How to reach me starkhush5@gmail.com
+```
+```markdown
+- ⚡ Fun fact I think I m funny XD.
+```
 
 ![Metrics](https://metrics.lecoq.io/Khushal-ag?template=classic&isocalendar=1&languages=1&followup=1&people=1&achievements=1&lines=1&stars=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=30&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=5&followup.sections=repositories&followup.indepth=false&followup.archived=true&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=35&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta)
 
