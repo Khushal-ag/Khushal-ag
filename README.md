@@ -6,7 +6,7 @@
 ![Profile views](https://gpvc.arturio.dev/Khushal-ag)
 
 ## Connect with me:<p align="left">
-<a href="https://dev.to/khushal_agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="khushal_agarwal" height="30" width="40" /></a>
+<a href="https://dev.to/khushalag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="khushal_agarwal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/khushal-agarwal-559878144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushal-agarwal-559878144" height="30" width="40" /></a>
 <a href="https://instagram.com/starkhush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="starkhush" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/khushal_ag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khushal_ag" height="30" width="40" /></a>
