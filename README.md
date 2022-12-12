@@ -64,10 +64,14 @@
 
 ![][langs]
 
-<!-- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushal-ag&show_icons=true&locale=en" alt="khushal-ag" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushal-ag&" alt="khushal-ag" /></p>
-<p><img align="left" width=48.7% src="https://github-readme-stats.vercel.app/api/top-langs?username=khushal-ag&show_icons=true&locale=en&layout=compact" alt="khushal-ag" /></p> -->
+
+## 💹 Contribution Graph:
+
+<div align = "center">
+  
+![][snake] <br> ![][graph]
+
+</div>
 
 <img height="80" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <h2 align="center">
@@ -107,3 +111,8 @@
 [vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [pycharm]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
 [intelij]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
+ 
+ <!----------------------------------{ contribution stats }--------------------------------->
+
+[snake]: https://github.com/Khushal-ag/Khushal-ag/blob/output/snake.svg
+[graph]: https://activity-graph.herokuapp.com/graph?username=Khushal-ag&theme=react-dark&hide_border=false&area=true
