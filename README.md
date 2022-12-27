@@ -39,7 +39,7 @@
 [![@khushal05's Holopin board](https://holopin.io/api/user/board?user=khushal05)](https://holopin.io/@khushal05)
 
 ## 🏆 Github Trophies:
-<div align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushal-ag" alt="khushal-ag" /></a> </div>
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushal-ag&row=1&column=-1&theme=gruvbox" alt="khushal-ag" /></a> </div>
 
 ## 💻 Tech Stack:
 <div align="center">
