@@ -33,7 +33,12 @@
 
 <!-- Generate your own metrics @ https://metrics.lecoq.io/ -->
 
+<details>
+  &nbsp;&nbsp;<summary>
+  <b>Click to show</b>
+  </summary>
 <img  align="center" width="800" src="https://metrics.lecoq.io/Khushal-ag?template=classic&isocalendar=1&languages=1&followup=1&people=1&achievements=1&lines=1&stars=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=30&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=5&followup.sections=repositories&followup.indepth=false&followup.archived=true&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=35&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta)">
+  </details>
 
 ## 🎖 Holopin Badges:
 [![@khushal05's Holopin board](https://holopin.io/api/user/board?user=khushal05)](https://holopin.io/@khushal05)
