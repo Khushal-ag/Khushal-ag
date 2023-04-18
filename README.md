@@ -86,7 +86,7 @@
 <!----------------------------------{ reference links }--------------------------------->
 
 [stats]: https://github-readme-stats-sigma-five.vercel.app/api?username=Khushal-ag&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false
-[langs]: https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khushal-ag&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact
+[langs]: https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khushal-ag&layout=compact
 [streaks]: https://github-readme-streak-stats.herokuapp.com/?user=Khushal-ag&theme=dark&hide_border=false#gh-light-mode-only
   
 <!----------------------------------{ language badges }--------------------------------->
