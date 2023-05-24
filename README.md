@@ -5,7 +5,24 @@
 
 ![Profile views](https://gpvc.arturio.dev/Khushal-ag)
 
+```markdown
+
+- 📫 How to reach me starkhush5@gmail.com
+
+```
+```markdown
+
+- ⚡ Fun fact I think I m funny XD.
+
+```
+```markdown
+
+- 📱 Need Coffee ☕ for Survival.
+
+```
+
 ## 📱 Connect with me:
+<br>
 <p align="left">
 <a href="https://dev.to/khushalag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="khushal_agarwal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/khushal-agarwal-559878144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushal-agarwal-559878144" height="30" width="40" /></a>
@@ -18,29 +35,12 @@
 </p>
 
 
-```markdown
-
-- 📫 How to reach me starkhush5@gmail.com
-
-```
-```markdown
-
-- ⚡ Fun fact I think I m funny XD.
-
-```
 
 ## 📉 My Github Stats:
 
 <!-- Generate your own metrics @ https://metrics.lecoq.io/ -->
 
-<details>
- <summary align='center'>
-   
-  ### 🔽Click to show
-  
-  </summary>
 <img  align="center" width="800" src="https://metrics.lecoq.io/Khushal-ag?template=classic&isocalendar=1&languages=1&followup=1&people=1&achievements=1&lines=1&stars=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=30&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=5&followup.sections=repositories&followup.indepth=false&followup.archived=true&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=35&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta)">
-  </details>
 
 ## 🎖 Holopin Badges:
 [![@khushal05's Holopin board](https://holopin.io/api/user/board?user=khushal05)](https://holopin.io/@khushal05)
