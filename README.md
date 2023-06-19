@@ -69,14 +69,14 @@
 
 ## 📰 Top Languages
 
-![][langs]
+![langs]
 
 
 ## 💹 Contribution Graph:
 
 <div align = "center">
   
-![][snake] <br> ![][graph]
+![snake] <br/>  <br/> ![graph]
 
 </div>
 
@@ -122,4 +122,4 @@
  <!----------------------------------{ contribution stats }--------------------------------->
 
 [snake]: https://github.com/Khushal-ag/Khushal-ag/blob/output/snake.svg
-[graph]: https://github-readme-activity-graph.cyclic.app/graph?username=Khushal-ag&theme=react-dark&hide_border=false&area=true
+[graph]: https://github-readme-activity-graph.vercel.app/graph?username=Khushal-ag&theme=react-dark&hide_border=false&area=true
