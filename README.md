@@ -3,7 +3,7 @@
 <h1 align="center">Hi <span><img width="36px" src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif"></span>, I'm Khushal Agarwal</h1>
 <h3 align="center">A passionate programmer.</h3>
 
-![Profile views](https://gpvc.arturio.dev/Khushal-ag)
+![](https://komarev.com/ghpvc/?username=Khushal-ag)
 
 ```markdown
 
