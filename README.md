@@ -34,9 +34,6 @@
 <a href="https://auth.geeksforgeeks.org/user/starkhush5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="starkhush5" height="30" width="40" /></a>
 </p>
 
-## 🏆 Github Trophies:
-<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushal-ag&row=1&column=-1&theme=gruvbox" alt="khushal-ag" /></a> </div>
-
 ## 💻 Tech Stack:
 <div align="center">
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="67" height="67" /></div>
